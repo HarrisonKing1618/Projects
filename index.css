@@ -1,0 +1,32 @@
+h1{
+    color: goldenrod;
+}
+
+body {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1rem;
+    padding: 10px;
+    font-weight: lighter;
+}
+
+button {
+    background-color: goldenrod;
+    border: none;
+    padding: 0.5rem 2rem;
+    color: #016f32;
+    font-weight: bold;
+    border-radius: 2px;
+    margin: 4px;
+
+
+}
+#message-el {
+    font-style: italic;
+}
